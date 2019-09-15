@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/instalador/Libreria selenium/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/instalador/Libreria selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/instalador/Libreria selenium/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/instalador/Libreria selenium/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/instalador/Libreria selenium/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/instalador/Libreria selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/instalador/Libreria Selenium Server StandAlone/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/instalador/Libreria TestNG para appium/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="D:/instalador/Libreria ScreenShot Selenium/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/instalador/Libreria de java para appium/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="D:/instalador/Libreria DataDriven/commons-collections4-4.1 (1).jar"/>
+	<classpathentry kind="lib" path="D:/instalador/Libreria DataDriven/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/instalador/Libreria DataDriven/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/instalador/Libreria DataDriven/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/instalador/Libreria DataDriven/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/instalador/Libreria DataDriven/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/instalador/Libreria selenium/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="D:/instalador/Libreria appium/java-client-7.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
